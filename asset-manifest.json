@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edamam-recipes-app/static/css/main.55db47d0.chunk.css",
+    "main.js": "/edamam-recipes-app/static/js/main.910a0bbe.chunk.js",
+    "main.js.map": "/edamam-recipes-app/static/js/main.910a0bbe.chunk.js.map",
+    "runtime~main.js": "/edamam-recipes-app/static/js/runtime~main.255af5d1.js",
+    "runtime~main.js.map": "/edamam-recipes-app/static/js/runtime~main.255af5d1.js.map",
+    "static/js/2.aa9b191f.chunk.js": "/edamam-recipes-app/static/js/2.aa9b191f.chunk.js",
+    "static/js/2.aa9b191f.chunk.js.map": "/edamam-recipes-app/static/js/2.aa9b191f.chunk.js.map",
+    "index.html": "/edamam-recipes-app/index.html",
+    "precache-manifest.a71c1b1284e30db719a4aaf7954e4a42.js": "/edamam-recipes-app/precache-manifest.a71c1b1284e30db719a4aaf7954e4a42.js",
+    "service-worker.js": "/edamam-recipes-app/service-worker.js",
+    "static/css/main.55db47d0.chunk.css.map": "/edamam-recipes-app/static/css/main.55db47d0.chunk.css.map"
+  }
+}
