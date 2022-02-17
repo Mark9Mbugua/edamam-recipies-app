@@ -1,0 +1,107 @@
+[
+  {
+    "grid": { "rows": 2, "columns": 2 },
+    "buttons": [
+      {
+        "image": "https://cdn.pixabay.com/photo/2021/11/24/23/17/couple-6822244_960_720.jpg",
+        "bannerTitle": "Banner Title 1",
+        "text": "Button 2",
+        "rowIndex": 0,
+        "columnIndex": 0,
+        "colSpan": 2,
+        "onClick": {
+          "arguments": "pageIndex, buttonIndex",
+          "body": "return On button click;"
+        }
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2022/02/11/14/52/waffles-7007465_960_720.jpg'",
+        "text": "Button 2",
+        "rowIndex": 0,
+        "columnIndex": 1,
+        "colSpan": 2,
+        "onClick": {
+          "arguments": "pageIndex, buttonIndex",
+          "body": "return On button click;"
+        }
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2022/01/11/18/46/rose-6931259_960_720.jpg",
+        "text": "Button 3",
+        "rowIndex": 1,
+        "columnIndex": 0,
+        "colSpan": 2,
+        "onClick": {
+          "arguments": "pageIndex, buttonIndex",
+          "body": "return On button click;"
+        }
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2022/02/11/14/52/waffles-7007465_960_720.jpg",
+        "text": "Button 4",
+        "rowIndex": 1,
+        "columnIndex": 1,
+        "colSpan": 2,
+        "onClick": {
+          "arguments": "pageIndex, buttonIndex",
+          "body": "return On button click;"
+        }
+      }
+    ]
+  },
+  {
+    "grid": { "rows": 2, "columns": 2 },
+    "buttons": [
+      {
+        "image": "https://cdn.pixabay.com/photo/2021/08/22/19/30/sky-6565993_960_720.jpg",
+        "bannerTitle": "Banner Title 2",
+        "text": "Button 1",
+        "rowIndex": 0,
+        "columnIndex": 0,
+        "colSpan": 2,
+        "onClick": {
+          "arguments": "pageIndex, buttonIndex",
+          "body": "return On button click;"
+        }
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2022/02/11/14/52/waffles-7007465_960_720.jpg",
+        "text": "Button 1",
+        "rowIndex": 0,
+        "columnIndex": 1,
+        "colSpan": 2,
+        "onClick": {
+          "arguments": "pageIndex, buttonIndex",
+          "body": "return On button click;"
+        }
+      },
+      {
+        "image": "https://cdn.pixabay.com/photo/2022/02/05/13/12/building-6994803__340.jpg",
+        "text": "Button 1",
+        "rowIndex": 1,
+        "columnIndex": 1,
+        "colSpan": 2,
+        "onClick": {
+          "arguments": "pageIndex, buttonIndex",
+          "body": "return On button click;"
+        }
+      }
+    ]
+  },
+  {
+    "grid": { "rows": 1, "columns": 1 },
+    "buttons": [
+      {
+        "image": "https://cdn.pixabay.com/photo/2021/11/24/23/17/couple-6822244_960_720.jpg",
+        "text": "Button 2",
+        "rowIndex": 0,
+        "columnIndex": 0,
+        "colSpan": 1,
+        "onClick": {
+          "arguments": "pageIndex, buttonIndex",
+          "body": "return On button click;"
+        }
+      }
+    ]
+  }
+]
