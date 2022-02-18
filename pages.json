@@ -4,11 +4,10 @@
     "buttons": [
       {
         "image": "https://cdn.pixabay.com/photo/2021/11/24/23/17/couple-6822244_960_720.jpg",
-        "bannerTitle": "Banner Title 1",
-        "text": "Button 2",
+        "text": "Button 1",
         "rowIndex": 0,
         "columnIndex": 0,
-        "colSpan": 2,
+        "colSpan": 1,
         "onClick": {
           "arguments": "pageIndex, buttonIndex",
           "body": "return On button click;"
@@ -54,7 +53,7 @@
     "buttons": [
       {
         "image": "https://cdn.pixabay.com/photo/2021/08/22/19/30/sky-6565993_960_720.jpg",
-        "bannerTitle": "Banner Title 2",
+        "bannerTitle": "Banner Title 1",
         "text": "Button 1",
         "rowIndex": 0,
         "columnIndex": 0,
