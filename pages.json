@@ -8,7 +8,7 @@
         "text": "Button 2",
         "rowIndex": 0,
         "columnIndex": 0,
-        "colSpan": 1,
+        "colSpan": 2,
         "onClick": {
           "arguments": "pageIndex, buttonIndex",
           "body": "return On button click;"
@@ -80,7 +80,7 @@
         "text": "Button 1",
         "rowIndex": 1,
         "columnIndex": 1,
-        "colSpan": 2,
+        "colSpan": 1,
         "onClick": {
           "arguments": "pageIndex, buttonIndex",
           "body": "return On button click;"
